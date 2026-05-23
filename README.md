@@ -5,7 +5,7 @@ Aspiring IT, Cloud & Cybersecurity Professional
 </h3>
 
 <p align="center">
-Currently pursuing hands-on experience in systems administration, networking, cloud infrastructure, and cybersecurity through home labs and technical projects.
+Currently building hands-on experience in systems administration, networking, cloud infrastructure, and cybersecurity through home labs, technical projects, and continuous learning.
 </p>
 
 ---
@@ -23,20 +23,24 @@ Currently pursuing hands-on experience in systems administration, networking, cl
 ## 👨‍💻 Current Projects
 
 ### 🏢 Active Directory Home Lab *(In Progress)*
+
 Currently building a Windows Server Active Directory environment to practice:
 
 - Domain Controller setup
 - DNS configuration
-- Group Policy
+- Group Policy Management
 - User & Group Administration
 - Windows Client Domain Join
-- Organizational Units (OUs)
+- Organizational Unit (OU) Structure
+- Password & Account Policies
+- IT Support & Systems Administration Tasks
 
 ---
 
 ## 🛠️ Technologies & Skills
 
 - Windows Server
+- Active Directory
 - Networking Fundamentals
 - DNS / DHCP
 - Group Policy
@@ -45,13 +49,32 @@ Currently building a Windows Server Active Directory environment to practice:
 - Linux Fundamentals
 - IT Troubleshooting
 - PowerShell Basics
+- Cybersecurity Fundamentals
+
+---
+
+## 🎯 Current Learning Focus
+
+- Active Directory Administration
+- Windows Server
+- Group Policy
+- Networking Fundamentals
+- PowerShell
+- AWS Cloud Infrastructure
+- Linux Administration
+- IT Support & Systems Administration
 
 ---
 
 ## 📜 Certifications
 
-- [Google Cybersecurity Certificate](https://coursera.org/share/cf2d5954a99aae4952721e02dfab5d00)
 - AWS Certified Cloud Practitioner
+- Google Cybersecurity Certificate
+- Google IT Support Professional Certificate
+- CompTIA A+ *(In Progress / Studying)*
+- CompTIA Network+ *(Planned)*
+- CompTIA Security+ *(Planned)*
+- ITIL 4 Foundation *(Planned)*
 
 ---
 
