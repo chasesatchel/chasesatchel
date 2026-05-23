@@ -20,24 +20,22 @@ Currently pursuing hands-on experience in systems administration, networking, cl
 
 ---
 
-## 👨‍💻 Technical Projects
+## 👨‍💻 Current Projects
 
-### 🏢 Active Directory Home Lab
-- Windows Server Domain Controller setup
+### 🏢 Active Directory Home Lab *(In Progress)*
+Currently building a Windows Server Active Directory environment to practice:
+
+- Domain Controller setup
 - DNS configuration
-- Group Policy Management
+- Group Policy
 - User & Group Administration
 - Windows Client Domain Join
-- Organizational Unit (OU) Structure
-
-🔗 Project Link:
-- [Active Directory Home Lab](https://github.com/chasesatchel/LABURL)
+- Organizational Units (OUs)
 
 ---
 
 ## 🛠️ Technologies & Skills
 
-- Active Directory
 - Windows Server
 - Networking Fundamentals
 - DNS / DHCP
