@@ -71,10 +71,10 @@ Currently building a Windows Server Active Directory environment to practice:
 - AWS Certified Cloud Practitioner
 - Google Cybersecurity Certificate
 - Google IT Support Professional Certificate
-- CompTIA A+ *(In Progress / Studying)*
-- CompTIA Network+ *(Planned)*
-- CompTIA Security+ *(Planned)*
-- ITIL 4 Foundation *(Planned)*
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- ITIL 4 Foundation
 
 ---
 
